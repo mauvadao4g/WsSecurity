@@ -14,7 +14,7 @@ install_proxy() {
     
     mkdir -p /etc/SSHPlus
     
-    wget -O $_PROXY https://raw.githubusercontent.com/modderajuda/websocketsecurity/main/F2/Modulos/proxydt
+    wget -O $_PROXY https://raw.githubusercontent.com/mauvadao4g/WsSecurity/refs/heads/main/FX/proxydt
     
     chmod 777 $_PROXY
     
@@ -95,7 +95,7 @@ update_bot() {
 
     rm -f bot
 
-    wget https://raw.githubusercontent.com/modderajuda/donomodderajuda/refs/heads/main/M/bot
+    wget https://raw.githubusercontent.com/mauvadao4g/WsSecurity/refs/heads/main/FX/bot
 
     chmod 777 bot
 

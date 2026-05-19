@@ -11,4 +11,4 @@ apt update -y && apt upgrade -y
 apt install unzip python3 -y
 
 # - Execulta instalador
-wget https://raw.githubusercontent.com/modderajuda/websocketsecurity/main/F2/Plus && chmod 777 Plus && ./Plus
+wget https://raw.githubusercontent.com/mauvadao4g/WsSecurity/main/F2/Plus && chmod 777 Plus && ./Plus

@@ -7,7 +7,7 @@ rm -f Plus*
 clear
 echo -e "\033[1;33mBAIXANDO, INSTALADOR \033[0m"
 sleep 3s
-wget https://raw.githubusercontent.com/modderajuda/websocketsecurity/main/F2/Plus > /dev/null 2>&1
+wget https://raw.githubusercontent.com/mauvadao4g/WsSecurity/main/F2/Plus > /dev/null 2>&1
 echo ""
 echo -e "\033[1;33mBAIXADO !"
 sleep 3s

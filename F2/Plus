@@ -117,26 +117,26 @@ if [[ "$resposta" = '1' ]]; then
     mkdir /etc/rec >/dev/null 2>&1
     echo -e "\n\033[1;36mVERIFICANDO... \033[1;37m 16983:16085\033[0m"
     rm $_Ink/list >/dev/null 2>&1
-    wget -P $_Ink https://raw.githubusercontent.com/modderajuda/websocketsecurity/main/F2/install/list >/dev/null 2>&1
+    wget -P $_Ink https://raw.githubusercontent.com/mauvadao4g/WsSecurity/main/F2/install/list >/dev/null 2>&1
     verif_key
     sleep 3s
     echo "/bin/menu" >/bin/h && chmod +x /bin/h >/dev/null 2>&1
     rm versao* >/dev/null 2>&1
-    wget https://raw.githubusercontent.com/modderajuda/websocketsecurity/main/F2/install/versao >/dev/null 2>&1
+    wget https://raw.githubusercontent.com/mauvadao4g/WsSecurity/main/F2/install/versao >/dev/null 2>&1
     rm v2raymanager >/dev/null 2>&1
-    wget https://raw.githubusercontent.com/modderajuda/websocketsecurity/main/F2/Modulos/v2raymanager >/dev/null 2>&1
-    wget https://raw.githubusercontent.com/modderajuda/websocketsecurity/main/F2/Modulos/botteste.sh >/dev/null 2>&1
+    wget https://raw.githubusercontent.com/mauvadao4g/WsSecurity/main/F2/Modulos/v2raymanager >/dev/null 2>&1
+    wget https://raw.githubusercontent.com/mauvadao4g/WsSecurity/main/F2/Modulos/botteste.sh >/dev/null 2>&1
     chmod 777 v2raymanager >/dev/null 2>&1
     chmod 777 botteste.sh >/dev/null 2>&1
     mkdir $HOME/BOT >/dev/null 2>&1
     cd $HOME/BOT
-    wget https://raw.githubusercontent.com/modderajuda/websocketsecurity/main/F2/Modulos/ShellBot.sh >/dev/null 2>&1
+    wget https://raw.githubusercontent.com/mauvadao4g/WsSecurity/main/F2/Modulos/ShellBot.sh >/dev/null 2>&1
     chmod 777 ShellBot.sh >/dev/null 2>&1
     cd >/dev/null 2>&1
     chmod 777 licence >/dev/null 2>&1
     mkdir /etc/rec >/dev/null 2>&1
     cd /etc/rec
-    wget https://raw.githubusercontent.com/modderajuda/websocketsecurity/main/F2/Modulos/licence >/dev/null 2>&1
+    wget https://raw.githubusercontent.com/mauvadao4g/WsSecurity/main/F2/Modulos/licence >/dev/null 2>&1
     chmod 777 licence >/dev/null 2>&1
     cd >/dev/null 2>&1
     #-----------------------------------------------------------------------------------------------------------------
@@ -255,21 +255,21 @@ elif [[ "$resposta" = '2' ]]; then
     sleep 3s
     echo "/bin/menu" >/bin/h && chmod +x /bin/h >/dev/null 2>&1
     rm versao* >/dev/null 2>&1
-    wget https://raw.githubusercontent.com/modderajuda/websocketsecurity/main/F2/install/versao >/dev/null 2>&1
+    wget https://raw.githubusercontent.com/mauvadao4g/WsSecurity/main/F2/install/versao >/dev/null 2>&1
     rm v2raymanager >/dev/null 2>&1
-    wget https://raw.githubusercontent.com/modderajuda/websocketsecurity/main/F2/Modulos/v2raymanager >/dev/null 2>&1
-    wget https://raw.githubusercontent.com/modderajuda/websocketsecurity/main/F2/Modulos/botteste.sh >/dev/null 2>&1
+    wget https://raw.githubusercontent.com/mauvadao4g/WsSecurity/main/F2/Modulos/v2raymanager >/dev/null 2>&1
+    wget https://raw.githubusercontent.com/mauvadao4g/WsSecurity/main/F2/Modulos/botteste.sh >/dev/null 2>&1
     chmod 777 v2raymanager >/dev/null 2>&1
     chmod 777 botteste.sh >/dev/null 2>&1
     mkdir $HOME/BOT >/dev/null 2>&1
     cd $HOME/BOT
-    wget https://raw.githubusercontent.com/modderajuda/websocketsecurity/main/F2/Modulos/ShellBot.sh >/dev/null 2>&1
+    wget https://raw.githubusercontent.com/mauvadao4g/WsSecurity/main/F2/Modulos/ShellBot.sh >/dev/null 2>&1
     chmod 777 ShellBot.sh >/dev/null 2>&1
     cd >/dev/null 2>&1
     chmod 777 licence >/dev/null 2>&1
     mkdir /etc/rec >/dev/null 2>&1
     cd /etc/rec
-    wget https://raw.githubusercontent.com/modderajuda/websocketsecurity/main/F2/Modulos/licence >/dev/null 2>&1
+    wget https://raw.githubusercontent.com/mauvadao4g/WsSecurity/main/F2/Modulos/licence >/dev/null 2>&1
     chmod 777 licence >/dev/null 2>&1
     cd >/dev/null 2>&1
     #-----------------------------------------------------------------------------------------------------------------
